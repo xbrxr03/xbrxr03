@@ -34,17 +34,13 @@ I build **ClawOS** — an agent-native operating system that runs entirely offli
 
 Building and contributing to the tools I use every day.
 
-| Project | PR | What |
-|---------|-----|------|
-| [**valyala/fasthttp**](https://github.com/valyala/fasthttp) | [#2300](https://github.com/valyala/fasthttp/pull/2300) | Fix data race on FSCompressedFileSuffixes map |
-| [**simonw/llm**](https://github.com/simonw/llm) | [#1496](https://github.com/simonw/llm/pull/1496) | Fix URL attachment redirects + charset stripping |
-| [**BerriAI/litellm**](https://github.com/BerriAI/litellm) | [#30938](https://github.com/BerriAI/litellm/pull/30938) | Fix GPT-5 Pro/5.4 Mini/Nano context window tokens |
+| Project | PR | What | Status |
+|---------|-----|------|--------|
+| [**valyala/fasthttp**](https://github.com/valyala/fasthttp) | [#2300](https://github.com/valyala/fasthttp/pull/2300) | Fix data race on FSCompressedFileSuffixes map | ✅ Merged |
+| [**johannesjo/parallel-code**](https://github.com/johannesjo/parallel-code) | [#187](https://github.com/johannesjo/parallel-code/pull/187) | Fix landedOrderCounters memory leak on coordinator close | ✅ Merged |
+| [**simonw/llm**](https://github.com/simonw/llm) | [#1496](https://github.com/simonw/llm/pull/1496) | Fix URL attachment redirects + charset stripping | Open |
+| [**BerriAI/litellm**](https://github.com/BerriAI/litellm) | [#30938](https://github.com/BerriAI/litellm/pull/30938) | Fix GPT-5 Pro/5.4 Mini/Nano context window tokens | Open |
 
-<!-- OPENSS-CONTRIBUTIONS-START -- Do not edit this section, updated automatically -->
-| [**valyala/fasthttp**](https://github.com/valyala/fasthttp) | [#2300](https://github.com/valyala/fasthttp/pull/2300) | Fix data race on FSCompressedFileSuffixes map |
-| [**simonw/llm**](https://github.com/simonw/llm) | [#1496](https://github.com/simonw/llm/pull/1496) | Fix URL attachment redirects + charset stripping |
-| [**BerriAI/litellm**](https://github.com/BerriAI/litellm) | [#30938](https://github.com/BerriAI/litellm/pull/30938) | Fix GPT-5 Pro/5.4 Mini/Nano context window tokens |
-<!-- OPENSS-CONTRIBUTIONS-END -->
 
 ### ⚡ Stack
 
