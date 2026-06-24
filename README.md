@@ -38,17 +38,21 @@ Building and contributing to the tools I use every day.
 |---------|-----|------|--------|
 | [**valyala/fasthttp**](https://github.com/valyala/fasthttp) | [#2300](https://github.com/valyala/fasthttp/pull/2300) | Fix data race on FSCompressedFileSuffixes map | ✅ Merged |
 | [**johannesjo/parallel-code**](https://github.com/johannesjo/parallel-code) | [#187](https://github.com/johannesjo/parallel-code/pull/187) | Fix landedOrderCounters memory leak | ✅ Merged |
+| [**johannesjo/parallel-code**](https://github.com/johannesjo/parallel-code) | [#186](https://github.com/johannesjo/parallel-code/pull/186) | Replace console.warn with structured logger | ✅ Merged |
+| [**johannesjo/parallel-code**](https://github.com/johannesjo/parallel-code) | [#185](https://github.com/johannesjo/parallel-code/pull/185) | Surface notification failure to renderer on macOS | ✅ Merged |
 | [**valyala/fasthttp**](https://github.com/valyala/fasthttp) | [#2302](https://github.com/valyala/fasthttp/pull/2302) | Fix pprof exact path matching | Open |
 | [**facebookresearch/HyperAgents**](https://github.com/facebookresearch/HyperAgents) | [#36](https://github.com/facebookresearch/HyperAgents/pull/36) | Wire unused MetaAgent params | Open |
 | [**facebookresearch/HyperAgents**](https://github.com/facebookresearch/HyperAgents) | [#37](https://github.com/facebookresearch/HyperAgents/pull/37) | Fix novelty-weighted parent selection | Open |
 | [**simonw/llm**](https://github.com/simonw/llm) | [#1496](https://github.com/simonw/llm/pull/1496) | Fix URL attachment redirects + charset stripping | Open |
-| [**BerriAI/litellm**](https://github.com/BerriAI/litellm) | [#30938](https://github.com/BerriAI/litellm/pull/30938) | Fix GPT-5 context window tokens | Open |
+| [**BerriAI/litellm**](https://github.com/BerriAI/litellm) | [#30938](https://github.com/BerriAI/litellm/pull/30938) | Fix GPT-5 context window tokens | ✅ Merged |
 
 <!-- OPENSS-CONTRIBUTIONS-START -- Do not edit this section, updated automatically -->
 | [**valyala/fasthttp**](https://github.com/valyala/fasthttp) | [#2300](https://github.com/valyala/fasthttp/pull/2300) | Fix data race on FSCompressedFileSuffixes map |
 | [**johannesjo/parallel-code**](https://github.com/johannesjo/parallel-code) | [#187](https://github.com/johannesjo/parallel-code/pull/187) | Fix cleanup of landedOrderCounters on coordinator close |
-| [**simonw/llm**](https://github.com/simonw/llm) | [#1496](https://github.com/simonw/llm/pull/1496) | Fix URL attachment redirects + charset stripping |
+| [**johannesjo/parallel-code**](https://github.com/johannesjo/parallel-code) | [#186](https://github.com/johannesjo/parallel-code/pull/186) | Replace noisy console.warn with structured logger |
+| [**johannesjo/parallel-code**](https://github.com/johannesjo/parallel-code) | [#185](https://github.com/johannesjo/parallel-code/pull/185) | Surface notification failure to renderer on macOS |
 | [**BerriAI/litellm**](https://github.com/BerriAI/litellm) | [#30938](https://github.com/BerriAI/litellm/pull/30938) | Fix GPT-5 Pro/5.4 Mini/Nano context window tokens |
+| [**simonw/llm**](https://github.com/simonw/llm) | [#1496](https://github.com/simonw/llm/pull/1496) | Fix URL attachment redirects + charset stripping |
 <!-- OPENSS-CONTRIBUTIONS-END -->
 
 ### ⚡ Stack
