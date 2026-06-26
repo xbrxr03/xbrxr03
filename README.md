@@ -34,7 +34,7 @@ I build **ClawOS** — an agent-native operating system that runs entirely offli
 
 Building and contributing to the tools I use every day.
 
-**5 merged · 8 open**
+**5 merged · 9 open**
 
 | Project | PR | What | Status |
 |---------|-----|------|--------|
@@ -50,6 +50,7 @@ Building and contributing to the tools I use every day.
 | [**charmbracelet/lipgloss**](https://github.com/charmbracelet/lipgloss) | [#704](https://github.com/charmbracelet/lipgloss/pull/704) | Fix Tree.Offset swap bug | 📡 Open |
 | [**charmbracelet/lipgloss**](https://github.com/charmbracelet/lipgloss) | [#705](https://github.com/charmbracelet/lipgloss/pull/705) | Add OverflowRow option to disable overflow row | 📡 Open |
 | [**ollama/ollama**](https://github.com/ollama/ollama) | [#16859](https://github.com/ollama/ollama/pull/16859) | Prevent ANSI escape sequences in piped output | 📡 Open |
+| [**BerriAI/litellm**](https://github.com/BerriAI/litellm) | [#31409](https://github.com/BerriAI/litellm/pull/31409) | Validate message roles early to prevent 500 stack trace leak | 📡 Open |
 | [**gin-gonic/gin**](https://github.com/gin-gonic/gin) | [#4714](https://github.com/gin-gonic/gin/pull/4714) | Flush status immediately for no-body response codes | 📡 Open |
 
 ### ⚡ Stack
