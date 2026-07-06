@@ -34,7 +34,7 @@ I build **ClawOS** — an agent-native operating system that runs entirely offli
 
 Building and contributing to the tools I use every day.
 
-**5 merged · 5 open**
+**6 merged · 3 open**
 
 | Project | PR | What | Status |
 |---------|-----|------|--------|
@@ -43,9 +43,8 @@ Building and contributing to the tools I use every day.
 | [**johannesjo/parallel-code**](https://github.com/johannesjo/parallel-code) | [#186](https://github.com/johannesjo/parallel-code/pull/186) | Replace console.warn with structured logger | ✅ Merged |
 | [**johannesjo/parallel-code**](https://github.com/johannesjo/parallel-code) | [#187](https://github.com/johannesjo/parallel-code/pull/187) | Fix landedOrderCounters memory leak on coordinator close | ✅ Merged |
 | [**BerriAI/litellm**](https://github.com/BerriAI/litellm) | [#30938](https://github.com/BerriAI/litellm/pull/30938) | Fix GPT-5 Pro/5.4 Mini/Nano context window tokens | ✅ Merged |
-| [**valyala/fasthttp**](https://github.com/valyala/fasthttp) | [#2302](https://github.com/valyala/fasthttp/pull/2302) | Fix pprof exact path matching to prevent debug data exposure | 📡 Open |
+| [**valyala/fasthttp**](https://github.com/valyala/fasthttp) | [#2302](https://github.com/valyala/fasthttp/pull/2302) | Fix pprof exact path matching to prevent debug data exposure | ✅ Merged |
 | [**simonw/llm**](https://github.com/simonw/llm) | [#1496](https://github.com/simonw/llm/pull/1496) | Fix URL attachment redirects + charset stripping | 📡 Open |
-| [**BerriAI/litellm**](https://github.com/BerriAI/litellm) | [#31409](https://github.com/BerriAI/litellm/pull/31409) | Validate message roles early to prevent 500 stack trace leak | 📡 Open |
 | [**xbrxr03/jinja**](https://github.com/xbrxr03/jinja) | [#1](https://github.com/xbrxr03/jinja/pull/1) | Fix indent filter respects blank=False on first line when first=True | 📡 Open |
 | [**Textualize/textual**](https://github.com/Textualize/textual) | [#6591](https://github.com/Textualize/textual/pull/6591) | Prevent KeyError when clearing and re-rendering DataTable | 📡 Open |
 
@@ -55,6 +54,7 @@ Building and contributing to the tools I use every day.
 | [**johannesjo/parallel-code**](https://github.com/johannesjo/parallel-code) | [#186](https://github.com/johannesjo/parallel-code/pull/186) | Replace noisy console.warn with structured logger |
 | [**johannesjo/parallel-code**](https://github.com/johannesjo/parallel-code) | [#185](https://github.com/johannesjo/parallel-code/pull/185) | Surface notification failure to renderer on macOS |
 | [**BerriAI/litellm**](https://github.com/BerriAI/litellm) | [#30938](https://github.com/BerriAI/litellm/pull/30938) | Fix GPT-5 Pro/5.4 Mini/Nano context window tokens |
+| [**valyala/fasthttp**](https://github.com/valyala/fasthttp) | [#2302](https://github.com/valyala/fasthttp/pull/2302) | Fix pprof exact path matching to prevent debug data exposure |
 <!-- OPENSS-CONTRIBUTIONS-END -->
 
 ### ⚡ Stack
