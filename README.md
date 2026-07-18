@@ -34,7 +34,7 @@ I build **ClawOS** — an agent-native operating system that runs entirely offli
 
 Building and contributing to the tools I use every day.
 
-**6 merged · 3 open**
+**7 merged · 2 open**
 
 | Project | PR | What | Status |
 |---------|-----|------|--------|
@@ -46,8 +46,8 @@ Building and contributing to the tools I use every day.
 | [**valyala/fasthttp**](https://github.com/valyala/fasthttp) | [#2302](https://github.com/valyala/fasthttp/pull/2302) | Fix pprof exact path matching to prevent debug data exposure | ✅ Merged |
 | [**simonw/llm**](https://github.com/simonw/llm) | [#1496](https://github.com/simonw/llm/pull/1496) | Fix URL attachment redirects + charset stripping | ❌ Closed |
 | [**xbrxr03/jinja**](https://github.com/xbrxr03/jinja) | [#1](https://github.com/xbrxr03/jinja/pull/1) | Fix indent filter respects blank=False on first line when first=True | 📡 Open |
-| [**valyala/fasthttp**](https://github.com/valyala/fasthttp) | [#2323](https://github.com/valyala/fasthttp/pull/2323) | Preserve pre-set status code in NewFastHTTPHandler | 📡 Open |
-| [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) | [#6487](https://github.com/crewAIInc/crewAI/pull/6487) | Make RAG file-type detection case-insensitive | 📡 Open |
+| [**valyala/fasthttp**](https://github.com/valyala/fasthttp) | [#2323](https://github.com/valyala/fasthttp/pull/2323) | Preserve pre-set status code in NewFastHTTPHandler | ✅ Merged |
+| [**crewAIInc/crewAI**](https://github.com/crewAIInc/crewAI) | [#6487](https://github.com/crewAIInc/crewAI/pull/6487) | Make RAG file-type detection case-insensitive | ❌ Closed |
 
 <!-- OPENSS-CONTRIBUTIONS-START -- Do not edit this section, updated automatically -->
 | [**valyala/fasthttp**](https://github.com/valyala/fasthttp) | [#2300](https://github.com/valyala/fasthttp/pull/2300) | Fix data race on FSCompressedFileSuffixes map |
@@ -56,6 +56,7 @@ Building and contributing to the tools I use every day.
 | [**johannesjo/parallel-code**](https://github.com/johannesjo/parallel-code) | [#185](https://github.com/johannesjo/parallel-code/pull/185) | Surface notification failure to renderer on macOS |
 | [**BerriAI/litellm**](https://github.com/BerriAI/litellm) | [#30938](https://github.com/BerriAI/litellm/pull/30938) | Fix GPT-5 Pro/5.4 Mini/Nano context window tokens |
 | [**valyala/fasthttp**](https://github.com/valyala/fasthttp) | [#2302](https://github.com/valyala/fasthttp/pull/2302) | Fix pprof exact path matching to prevent debug data exposure |
+| [**valyala/fasthttp**](https://github.com/valyala/fasthttp) | [#2323](https://github.com/valyala/fasthttp/pull/2323) | Preserve pre-set status code in NewFastHTTPHandler |
 <!-- OPENSS-CONTRIBUTIONS-END -->
 
 ### ⚡ Stack
