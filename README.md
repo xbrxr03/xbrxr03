@@ -34,7 +34,7 @@ I build **ClawOS** — an agent-native operating system that runs entirely offli
 
 Building and contributing to the tools I use every day.
 
-**7 merged · 2 open**
+**7 merged · 1 open**
 
 | Project | PR | What | Status |
 |---------|-----|------|--------|
